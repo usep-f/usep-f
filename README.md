@@ -1,11 +1,6 @@
 # Hi 👋, I'm Sepf
 
 ### 4th Year Student | Freelance Developer
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=usep-f&label=Profile+views&color=0e75b6&style=flat-square" alt="usep-f views" /> 
-</p>
-
 I’m an Industrial Technology student majoring in Computer Technology, with a strong passion and focus on web development. As a solo freelance developer, my goal is to build practical, scalable, and easy-to-maintain web applications. With clear communication and a dedication to releasing high-standard products, I make sure my clients receive systems that are meticulously developed for reliability and user-friendliness. Lastly, I leverage AI-integrated and agentic workflows to significantly accelerate development speed and release functional MVPs quickly. By combining detailed prompting with strict system architecture, I ensure these rapid deployments remain stable, clean, and production-ready.
 
 ---
@@ -40,26 +35,3 @@ I’m an Industrial Technology student majoring in Computer Technology, with a s
 </p>
 
 *Note: Currently integrating Stellar SDKs and smart contract environments into this core stack.*
-
----
-
-### 📊 GitHub Analytics
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=usep-f&show_icons=true&theme=gotham&locale=en" alt="Sepf's GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usep-f&layout=compact&theme=gotham&locale=en" alt="Sepf's Top Languages" />
-  </a>
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/usep-f" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=github" alt="usep-f on GitHub" height="40" width="40" />
-  </a>
-</p>
